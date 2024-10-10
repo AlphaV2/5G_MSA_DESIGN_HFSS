@@ -1,2 +1,2 @@
 # Microstrip-Antenna-for-5G-Applications
-This repository showcases my mini-project, developed as part of my summer internship,, focusing on the design and simulation of a microstrip patch antenna for 5G communication systems. 
+This repository includes the design and simulation files for a microstrip patch antenna intended for 5G communication applications. The design, developed during my summer internship, operates at the 27.94 GHz frequency band and was simulated using Ansys HFSS to explore high-frequency antenna design optimized for 5G applications.
